@@ -1,5 +1,5 @@
 # typescript-boilerplate
-Basic typescript boilerplate with Vite and Jest
+Basic typescript boilerplate with Vite and Jest for web development.
 
 ## Commands:
 - `dev`: Development mode. When save changes in a file, Vite recompiles TypeScript and reload the live-preview.
